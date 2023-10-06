@@ -9,7 +9,7 @@ A Terraform-driven infrastructure orchestration project for managing multiple en
 ## Separate network resources into a network module.
 ![image](https://github.com/mohamedamr99t/TerraEnvOps-Infrastructure/assets/139065575/ef5227c7-594b-4fcb-ba68-ce48bfdfccd5)
 ## Apply Code to Create Environments
-![image](https://github.com/mohamedamr99t/TerraEnvOps-Infrastructure/assets/139065575/d3a6b534-9488-4e63-97ed-be8185b0fefd)
+![image](https://github.com/mohamedamr99t/TerraEnvOps-Infrastructure/assets/139065575/6d2bd6a3-8eca-4ac9-8056-e15de5cd7066)
 ![image](https://github.com/mohamedamr99t/TerraEnvOps-Infrastructure/assets/139065575/ce853da5-4203-401f-918c-b6ddc5af3f3d)
 ## Run the local-exec provisioner to print the public IP of the bastion EC2.
 ![image](https://github.com/mohamedamr99t/TerraEnvOps-Infrastructure/assets/139065575/8c00108b-7c1c-4727-98fd-868e560138f9)
