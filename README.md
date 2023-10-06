@@ -4,7 +4,7 @@ A Terraform-driven infrastructure orchestration project for managing multiple en
 ![image](https://github.com/mohamedamr99t/TerraEnvOps-Infrastructure/assets/139065575/34150c5b-100e-4778-9319-8b42809d7c3d)
 ## Create two variable definition files (.tfvars) for the dev and prod environments.
 ![image](https://github.com/mohamedamr99t/TerraEnvOps-Infrastructure/assets/139065575/680e10b6-9973-4378-9d24-c7dcc9f0029c)
-![image](https://github.com/mohamedamr99t/TerraEnvOps-Infrastructure/assets/139065575/120dc453-6ef2-4e08-b82f-316c0d9372fd)
+![image](https://github.com/mohamedamr99t/TerraEnvOps-Infrastructure/assets/139065575/d947672f-bfea-4fe9-bf26-ce3508056d44)
 ![image](https://github.com/mohamedamr99t/TerraEnvOps-Infrastructure/assets/139065575/b094b873-e476-4816-ba7d-d91e5b8b2a64)
 ## Separate network resources into a network module.
 ![image](https://github.com/mohamedamr99t/TerraEnvOps-Infrastructure/assets/139065575/ef5227c7-594b-4fcb-ba68-ce48bfdfccd5)
