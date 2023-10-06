@@ -1,4 +1,4 @@
-![image](https://github.com/mohamedamr99t/TerraEnvOps-Infrastructure/assets/139065575/41caf383-27eb-49de-8b27-794a6853f1bc)# TerraEnvOps-Infrastructure
+# TerraEnvOps-Infrastructure
 A Terraform-driven infrastructure orchestration project for managing multiple environments with automated notifications, powered by Jenkins, AWS SES, and Lambda functions
 ## Create two workspaces: dev and prod. 
 ![image](https://github.com/mohamedamr99t/TerraEnvOps-Infrastructure/assets/139065575/34150c5b-100e-4778-9319-8b42809d7c3d)
