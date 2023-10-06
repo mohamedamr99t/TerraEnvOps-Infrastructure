@@ -2,8 +2,7 @@
 A Terraform-driven infrastructure orchestration project for managing multiple environments with automated notifications, powered by Jenkins, AWS SES, and Lambda functions
 ## Create two workspaces: dev and prod. 
 ![image](https://github.com/mohamedamr99t/TerraEnvOps-Infrastructure/assets/139065575/34150c5b-100e-4778-9319-8b42809d7c3d)
-## Create Variable Definition Files
-# Create two variable definition files (.tfvars) for the dev and prod environments.
+## Create two variable definition files (.tfvars) for the dev and prod environments.
 ![image](https://github.com/mohamedamr99t/TerraEnvOps-Infrastructure/assets/139065575/680e10b6-9973-4378-9d24-c7dcc9f0029c)
 ![image](https://github.com/mohamedamr99t/TerraEnvOps-Infrastructure/assets/139065575/120dc453-6ef2-4e08-b82f-316c0d9372fd)
 ![image](https://github.com/mohamedamr99t/TerraEnvOps-Infrastructure/assets/139065575/b094b873-e476-4816-ba7d-d91e5b8b2a64)
